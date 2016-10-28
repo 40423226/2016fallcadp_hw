@@ -1,5 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2016-09-02T12:00:00+08:00</updated><entry><title>2016Fall 機械設計主題教學</title><link href="./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html" rel="alternate"></link><published>2016-09-02T12:00:00+08:00</published><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html</id><summary type="html">&lt;p&gt;知識管理與最佳化應用實驗室試圖利用計算機程式、網際內容管理、電腦輔助設計實習與協同產品設計實習等課程, 進行與機械設計相關的主題式教學, 其中包含強化創造力的教學、令學員熟習六種工程表達方式, 並且俱備融入協同設計所需要的四大面向知識與技能.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2016-10-28T12:00:00+08:00</updated><entry><title>20161028W7</title><link href="./20161028w7.html" rel="alternate"></link><updated>2016-10-28T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-28:./20161028w7.html</id><summary type="html">&lt;h2&gt;移除先前設定的子模組&lt;/h2&gt;
+
+&lt;p&gt;把以下多餘的設定刪掉&lt;/p&gt;
+
+&lt;pre&gt;
+[submodule "2016fallcadp_hw"]
+    path = 2016fallcadp_hw
+    url = https://github.com/40423226/2016fallcadp_hw.git
+    branch = gh-pages
+&lt;/pre&gt;
+
+&lt;p&gt;更改後為以下的內容&lt;/p&gt;
+
+&lt;pre&gt;
+[submodule "40423206"]
+    path = 40423206
+    url = https://github.com/40423206/2016fallcadp_hw.git
+    branch = gh-pages
+[submodule "40423224"]
+    path = 40423224
+    url = https://github.com/40423224/2016fallcadp_hw.git
+    branch = gh-pages
+[submodule "40423226"]
+    path = 40423226
+    url = https://github.com/40423226/2016fallcadp_hw.git
+    branch = gh-pages
+[submodule "40423229"]
+    path = 40423229
+    url = https://github.com/40423229/2016fallcadp_hw.git
+    branch = gh-pages
+[submodule "40423214"]
+    path = 40423214
+    url = https://github.com/40423214/2016fallcadp_hw.git
+    branch = gh-pages
+[submodule "40423216"]
+    path = 40423216
+    url = https://github.com/40423216/2016fallcadp_hw.git
+    branch = gh-pages
+&lt;/pre&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>20161021W6</title><link href="./20161021w6.html" rel="alternate"></link><updated>2016-10-21T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-21:./20161021w6.html</id><summary type="html">&lt;h2&gt;解決子模組在對應上的問題&lt;/h2&gt;
+
+&lt;p&gt;因為之前的2016fallcadp_hw倉儲少複製了一些東西,刪除舊的倉儲後,重新做一個和之前倉儲同名的2016fallcadp_hw倉儲,但是在小組倉儲所連結的子模組,抓不到新倉儲連結,所以我們需要重新加入一次組員倉儲的資料&lt;/p&gt;
+
+&lt;p&gt;以為只要再輸入一次指令就可以讓程式抓最新的子模組近來&lt;/p&gt;
+
+&lt;pre&gt;
+Y:\tmp\2016fallcadp_bg6&gt;git submodule add -b gh-pages https://github.com/40423226/2016fallcadp_hw.git 40423226
+'40423226' already exists in the index
+&lt;/pre&gt;
+
+&lt;p&gt;但是程式告訴我們40423226的子模組已經在裡面,所以在試著用git rm 40423226 -f 來刪除存放該子模組資料的資料夾,然後再git submodule add的一次組員倉儲的資料&lt;/p&gt;
+
+&lt;pre&gt;
+Y:\tmp\2016fallcadp_bg6&gt;git submodule add -b gh-pages https://github.com/40423226/2016fallcadp_hw.git 40423226
+A git directory for '40423226' is found locally with remote(s):
+  origin        https://github.com/40423226/2016fallcadp_hw.git
+If you want to reuse this local git directory instead of cloning again from
+  https://github.com/40423226/2016fallcadp_hw.git
+use the '--force' option. If the local git directory is not the correct repo
+or you are unsure what this means choose another name with the '--name' option.
+&lt;/pre&gt;
+
+&lt;p&gt;程式告訴我們還有資料沒刪除乾淨,於是我們再執行一次刪除的指令&lt;/p&gt;
+
+&lt;pre&gt;
+Y:\tmp\2016fallcadp_bg6&gt;git rm 40423226 -f
+fatal: pathspec '40423226' did not match any files
+&lt;/pre&gt;
+
+&lt;p&gt;然而程式說找不到任何有關該名稱的文件資料,後來我們發現submodule內的設定並沒有也因此刪除,要刪除submodule的設定有兩個方法&lt;/p&gt;
+
+&lt;h3&gt;解決方法一&lt;/h3&gt;
+
+&lt;p&gt;從SciTE打開,在2016fallcadp_bg6資料夾內的.gitmodules檔案,把該組員的子模組設定刪除後就可以存檔&lt;/p&gt;
+
+&lt;pre&gt;
+[submodule "40423206"]
+    path = 40423206
+    url = https://github.com/40423206/2016fallcadp_hw.git
+    branch = gh-pages
+[submodule "40423224"]
+    path = 40423224
+    url = https://github.com/40423224/2016fallcadp_hw.git
+    branch = gh-pages
+[submodule "2016fallcadp_hw"]
+    path = 2016fallcadp_hw
+    url = https://github.com/40423226/2016fallcadp_hw.git
+    branch = gh-pages
+[submodule "40423229"]
+    path = 40423229
+    url = https://github.com/40423229/2016fallcadp_hw.git
+    branch = gh-pages
+[submodule "40423214"]
+    path = 40423214
+    url = https://github.com/40423214/2016fallcadp_hw.git
+    branch = gh-pages
+[submodule "40423216"]
+    path = 40423216
+    url = https://github.com/40423216/2016fallcadp_hw.git
+    branch = gh-pages
+&lt;/pre&gt;
+
+&lt;p&gt;如果有打下面的指令,把各組員子模組的資料抓近來,記得要把2016fallcadp_bg6\.git\modules裡該組員的隱藏資料夾刪掉&lt;/p&gt;
+
+&lt;pre&gt;
+git submodule update --init --recursive
+&lt;/pre&gt;
+
+&lt;p&gt;就可以重新執行指令,把組員的子模組加進來&lt;/p&gt;
+
+&lt;pre&gt;
+git submodule add -b gh-pages https://github.com/40423226/2016fallcadp_hw.git 40423226
+&lt;/pre&gt;
+
+&lt;h3&gt;解決方法二&lt;/h3&gt;
+
+&lt;p&gt;直接依序執行以下的指令&lt;/p&gt;
+
+&lt;pre&gt;
+git submodule deinit asubmodule    
+git rm asubmodule
+# Note: asubmodule (no trailing slash)
+# or, if you want to leave it in your working tree
+git rm --cached asubmodule
+&lt;/pre&gt;
+
+&lt;p&gt;但是在2016fallcadp_bg6\.git\modules裡的隱藏資料夾,還是需要自己動手刪除&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>20161014W5</title><link href="./20161014w5.html" rel="alternate"></link><updated>2016-10-14T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-14:./20161014w5.html</id><summary type="html">&lt;p&gt;W5&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>20161007W4</title><link href="./20161007w4.html" rel="alternate"></link><updated>2016-10-07T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-07:./20161007w4.html</id><summary type="html">&lt;p&gt;W4&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>20160930W3</title><link href="./20160930w3.html" rel="alternate"></link><updated>2016-09-30T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-09-30:./20160930w3.html</id><summary type="html">&lt;h2&gt;解決近端設定代理主機的問題&lt;/h2&gt;
+
+&lt;p&gt;每次上課須執行以下指令&lt;/p&gt;
+
+&lt;pre&gt;
+git config --global http.proxy http://proxy.mde.tw:3128
+git config --global https.proxy http://proxy.mde.tw:3128
+&lt;/pre&gt;
+
+&lt;p&gt;輸入完之後出現了這個問題&lt;/p&gt;
+
+&lt;pre&gt;
+warning: http.proxy has multiple values
+error: cannot overwrite multiple values with a single value
+       Use a regexp, --add or --replace-all to change http.proxy.
+&lt;/pre&gt;
+
+&lt;p&gt;發現在Y:\home的.gitconfig檔案出現問題,從SciTE打開.gitconfig&lt;/p&gt;
+
+&lt;pre&gt;
+[http]
+    proxy = 
+    proxy = 
+    proxy = 
+    proxy = http://proxy.mde.tw:3128
+[https]
+    proxy = http://proxy.mde.tw:3128
+[user]
+    email = 40423226@gm.nfu.edu.tw
+    name = 40423226
+&lt;/pre&gt;
+
+&lt;p&gt;更正後儲存
+&lt;pre&gt;
+[http]
+    proxy = http://proxy.mde.tw:3128
+[https]
+    proxy = http://proxy.mde.tw:3128
+[user]
+    email = 40423226@gm.nfu.edu.tw
+    name = 40423226
+&lt;/pre&gt;&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>20160923W2</title><link href="./20160923w2.html" rel="alternate"></link><updated>2016-09-23T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-09-23:./20160923w2.html</id><summary type="html">&lt;p&gt;W2&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>20160916W1</title><link href="./20160916w1.html" rel="alternate"></link><updated>2016-09-16T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-09-16:./20160916w1.html</id><summary type="html">&lt;p&gt;W1&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>2016Fall 機械設計主題教學</title><link href="./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html" rel="alternate"></link><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html</id><summary type="html">&lt;p&gt;知識管理與最佳化應用實驗室試圖利用計算機程式、網際內容管理、電腦輔助設計實習與協同產品設計實習等課程, 進行與機械設計相關的主題式教學, 其中包含強化創造力的教學、令學員熟習六種工程表達方式, 並且俱備融入協同設計所需要的四大面向知識與技能.&lt;/p&gt;
 
 
 &lt;h1&gt;機械設計主題教學&lt;/h1&gt;
