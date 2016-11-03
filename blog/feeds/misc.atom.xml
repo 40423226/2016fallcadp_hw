@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423226個人網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2016-10-28T12:00:00+08:00</updated><entry><title>20161028W7</title><link href="./20161028w7.html" rel="alternate"></link><updated>2016-10-28T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-28:./20161028w7.html</id><summary type="html">&lt;h2&gt;移除先前設定的子模組&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423226個人網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2016-10-28T12:00:00+08:00</updated><entry><title>20161028W7</title><link href="./20161028w7.html" rel="alternate"></link><updated>2016-10-28T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-28:./20161028w7.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/190090265" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
+&lt;p&gt;路徑圖&lt;/p&gt;
+&lt;a&gt;&lt;img src="../photo/Trace Point.PNG" /&gt;&lt;/a&gt;
+
+&lt;h2&gt;解決子模組設定的問題&lt;/h2&gt;
 &lt;p&gt;把以下多餘的設定刪掉&lt;/p&gt;
-
 &lt;pre&gt;
 [submodule "2016fallcadp_hw"]
     path = 2016fallcadp_hw
     url = https://github.com/40423226/2016fallcadp_hw.git
     branch = gh-pages
 &lt;/pre&gt;
-
 &lt;p&gt;更改後為以下的內容&lt;/p&gt;
-
 &lt;pre&gt;
 [submodule "40423206"]
     path = 40423206
@@ -37,7 +39,7 @@
     path = 40423216
     url = https://github.com/40423216/2016fallcadp_hw.git
     branch = gh-pages
-&lt;/pre&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>20161021W6</title><link href="./20161021w6.html" rel="alternate"></link><updated>2016-10-21T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-21:./20161021w6.html</id><summary type="html">&lt;h2&gt;解決子模組在對應上的問題&lt;/h2&gt;
+&lt;/pre&gt;</summary><category term="上課內容"></category><category term="影片講解"></category><category term="解決問題"></category></entry><entry><title>20161021W6</title><link href="./20161021w6.html" rel="alternate"></link><updated>2016-10-21T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-21:./20161021w6.html</id><summary type="html">&lt;h2&gt;解決子模組在對應上的問題&lt;/h2&gt;
 
 &lt;p&gt;因為之前的2016fallcadp_hw倉儲少複製了一些東西,刪除舊的倉儲後,重新做一個和之前倉儲同名的2016fallcadp_hw倉儲,但是在小組倉儲所連結的子模組,抓不到新倉儲連結,所以我們需要重新加入一次組員倉儲的資料&lt;/p&gt;
 
@@ -124,7 +126,25 @@ git rm asubmodule
 git rm --cached asubmodule
 &lt;/pre&gt;
 
-&lt;p&gt;但是在2016fallcadp_bg6\.git\modules裡的隱藏資料夾,還是需要自己動手刪除&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>20161014W5</title><link href="./20161014w5.html" rel="alternate"></link><updated>2016-10-14T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-14:./20161014w5.html</id><summary type="html">&lt;p&gt;W5&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>20161007W4</title><link href="./20161007w4.html" rel="alternate"></link><updated>2016-10-07T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-07:./20161007w4.html</id><summary type="html">&lt;p&gt;W4&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>20160930W3</title><link href="./20160930w3.html" rel="alternate"></link><updated>2016-09-30T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-09-30:./20160930w3.html</id><summary type="html">&lt;h2&gt;解決近端設定代理主機的問題&lt;/h2&gt;
+&lt;p&gt;但是在2016fallcadp_bg6\.git\modules裡的隱藏資料夾,還是需要自己動手刪除&lt;/p&gt;</summary><category term="上課內容"></category><category term="影片講解"></category><category term="解決問題"></category></entry><entry><title>20161014W5</title><link href="./20161014w5.html" rel="alternate"></link><updated>2016-10-14T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-14:./20161014w5.html</id><summary type="html">&lt;p&gt;初步認識SolveSpace&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/190087085" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category><category term="影片講解"></category></entry><entry><title>20161007W4</title><link href="./20161007w4.html" rel="alternate"></link><updated>2016-10-07T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-07:./20161007w4.html</id><summary type="html">&lt;p&gt;設定使用者資料,讓可攜程式更方便&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/190072906" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;用2016fallcadp_bg6的名稱,建立小組倉儲&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/190075715" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category><category term="影片講解"></category></entry><entry><title>20160930W3</title><link href="./20160930w3.html" rel="alternate"></link><updated>2016-09-30T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-09-30:./20160930w3.html</id><summary type="html">&lt;p&gt;複製網誌和簡報的設定檔到2016fallcadp_hw的倉儲&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/190065696" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;更改2016fallcadp_hw的README.md檔案&lt;/p&gt;
+
+&lt;pre&gt;簡報: https://40423226.github.io/2016fallcadp_hw
+網址: https://40423226.github.io/2016fallcadp_hw/blog/&lt;/pre&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/190066620" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;解決近端設定代理主機的問題&lt;/h2&gt;
 
 &lt;p&gt;每次上課須執行以下指令&lt;/p&gt;
 
@@ -165,124 +185,123 @@ error: cannot overwrite multiple values with a single value
 [user]
     email = 40423226@gm.nfu.edu.tw
     name = 40423226
-&lt;/pre&gt;&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>20160923W2</title><link href="./20160923w2.html" rel="alternate"></link><updated>2016-09-23T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-09-23:./20160923w2.html</id><summary type="html">&lt;p&gt;W2&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>20160916W1</title><link href="./20160916w1.html" rel="alternate"></link><updated>2016-09-16T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-09-16:./20160916w1.html</id><summary type="html">&lt;p&gt;W1
-&lt;a&gt;&lt;img src="../photo/LEO.PNG" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>2016Fall 機械設計主題教學</title><link href="./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html" rel="alternate"></link><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html</id><summary type="html">&lt;p&gt;知識管理與最佳化應用實驗室試圖利用計算機程式、網際內容管理、電腦輔助設計實習與協同產品設計實習等課程, 進行與機械設計相關的主題式教學, 其中包含強化創造力的教學、令學員熟習六種工程表達方式, 並且俱備融入協同設計所需要的四大面向知識與技能.&lt;/p&gt;
+&lt;/pre&gt;&lt;/p&gt;</summary><category term="上課內容"></category><category term="影片講解"></category><category term="解決問題"></category></entry><entry><title>20160923W2</title><link href="./20160923w2.html" rel="alternate"></link><updated>2016-09-23T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-09-23:./20160923w2.html</id><summary type="html">&lt;p&gt;建立40423226.github.io名稱的倉儲&lt;/p&gt;
 
+&lt;iframe src="https://player.vimeo.com/video/190063679" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h1&gt;機械設計主題教學&lt;/h1&gt;
-&lt;p&gt;創造力三元素, 機械設計的六種表達, 協同設計的四大面向.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;強化創造能力 - 自學力、程式力與想像力
-(Creative Competencies)&lt;/li&gt;
-&lt;li&gt;熟習六種表達  - 口語、文字、2D、3D、理論與實體表達
-(Six Presentation Methods)&lt;/li&gt;
-&lt;li&gt;融入協同設計 - 電腦、網路、軟硬體工具與協同專案
-(Collaborative Designs)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;2016 Fall CADP B 分組網頁:&lt;/p&gt;
-&lt;p&gt;&lt;a href='../g1'&gt;第1組&lt;/a&gt;:&lt;br /&gt;
-&lt;a href='../g1/40123252'&gt;40123252&lt;/a&gt; 
-&lt;a href='../g1/40223128'&gt;40223128&lt;/a&gt; 
-&lt;a href='../g1/40223130'&gt;40223130&lt;/a&gt; 
-&lt;a href='../g1/40223215'&gt;40223215&lt;/a&gt; 
-&lt;a href='../g1/40223233'&gt;40223233&lt;/a&gt; 
-&lt;br /&gt;
-&lt;a href='../g2'&gt;第2組&lt;/a&gt;:&lt;br /&gt;
-&lt;a href='../g2/40223205'&gt;40223205&lt;/a&gt; 
-&lt;a href='../g2/40223206'&gt;40223206&lt;/a&gt; 
-&lt;a href='../g2/40423225'&gt;40423225&lt;/a&gt; 
-&lt;a href='../g2/40423231'&gt;40423231&lt;/a&gt; 
-&lt;a href='../g2/40423240'&gt;40423240&lt;/a&gt; 
-&lt;a href='../g2/40423250'&gt;40423250&lt;/a&gt; 
-&lt;br /&gt;
-&lt;a href='../g3'&gt;第3組&lt;/a&gt;:&lt;br /&gt;
-&lt;a href='../g3/40423201'&gt;40423201&lt;/a&gt; 
-&lt;a href='../g3/40423202'&gt;40423202&lt;/a&gt; 
-&lt;a href='../g3/40423203'&gt;40423203&lt;/a&gt; 
-&lt;a href='../g3/40423211'&gt;40423211&lt;/a&gt; 
-&lt;a href='../g3/40439221'&gt;40439221&lt;/a&gt; 
-&lt;a href='../g3/42423223'&gt;42423223&lt;/a&gt; 
-&lt;br /&gt;
-&lt;a href='../g4'&gt;第4組&lt;/a&gt;:&lt;br /&gt;
-&lt;a href='../g4/40423204'&gt;40423204&lt;/a&gt; 
-&lt;a href='../g4/40423221'&gt;40423221&lt;/a&gt; 
-&lt;a href='../g4/40423228'&gt;40423228&lt;/a&gt; 
-&lt;a href='../g4/40423243'&gt;40423243&lt;/a&gt; 
-&lt;a href='../g4/40423253'&gt;40423253&lt;/a&gt; 
-&lt;a href='../g4/40423254'&gt;40423254&lt;/a&gt; 
-&lt;br /&gt;
-&lt;a href='../g5'&gt;第5組&lt;/a&gt;:&lt;br /&gt;
-&lt;a href='../g5/40423205'&gt;40423205&lt;/a&gt; 
-&lt;a href='../g5/40423227'&gt;40423227&lt;/a&gt; 
-&lt;a href='../g5/40423235'&gt;40423235&lt;/a&gt; 
-&lt;a href='../g5/40423236'&gt;40423236&lt;/a&gt; 
-&lt;a href='../g5/40423237'&gt;40423237&lt;/a&gt; 
-&lt;a href='../g5/40423238'&gt;40423238&lt;/a&gt; 
-&lt;br /&gt;
-&lt;a href='../g6'&gt;第6組&lt;/a&gt;:&lt;br /&gt;
-&lt;a href='../g6/40423206'&gt;40423206&lt;/a&gt; 
-&lt;a href='../g6/40423214'&gt;40423214&lt;/a&gt; 
-&lt;a href='../g6/40423216'&gt;40423216&lt;/a&gt; 
-&lt;a href='../g6/40423224'&gt;40423224&lt;/a&gt; 
-&lt;a href='../g6/40423226'&gt;40423226&lt;/a&gt; 
-&lt;a href='../g6/40423229'&gt;40423229&lt;/a&gt; 
-&lt;br /&gt;
-&lt;a href='../g7'&gt;第7組&lt;/a&gt;:&lt;br /&gt;
-&lt;a href='../g7/40423207'&gt;40423207&lt;/a&gt; 
-&lt;a href='../g7/40423210'&gt;40423210&lt;/a&gt; 
-&lt;a href='../g7/40423219'&gt;40423219&lt;/a&gt; 
-&lt;a href='../g7/40423220'&gt;40423220&lt;/a&gt; 
-&lt;a href='../g7/40423241'&gt;40423241&lt;/a&gt; 
-&lt;a href='../g7/40423246'&gt;40423246&lt;/a&gt; 
-&lt;br /&gt;
-&lt;a href='../g8'&gt;第8組&lt;/a&gt;:&lt;br /&gt;
-&lt;a href='../g8/40423208'&gt;40423208&lt;/a&gt; 
-&lt;a href='../g8/40423213'&gt;40423213&lt;/a&gt; 
-&lt;a href='../g8/40423232'&gt;40423232&lt;/a&gt; 
-&lt;a href='../g8/40423233'&gt;40423233&lt;/a&gt; 
-&lt;br /&gt;
-&lt;a href='../g9'&gt;第9組&lt;/a&gt;:&lt;br /&gt;
-&lt;a href='../g9/40423209'&gt;40423209&lt;/a&gt; 
-&lt;a href='../g9/40423212'&gt;40423212&lt;/a&gt; 
-&lt;a href='../g9/40423217'&gt;40423217&lt;/a&gt; 
-&lt;a href='../g9/40423218'&gt;40423218&lt;/a&gt; 
-&lt;a href='../g9/40423239'&gt;40423239&lt;/a&gt; 
-&lt;a href='../g9/40423255'&gt;40423255&lt;/a&gt; 
-&lt;br /&gt;
-&lt;a href='../g10'&gt;第10組&lt;/a&gt;:&lt;br /&gt;
-&lt;a href='../g10/40423222'&gt;40423222&lt;/a&gt; 
-&lt;a href='../g10/40423245'&gt;40423245&lt;/a&gt; 
-&lt;a href='../g10/40423248'&gt;40423248&lt;/a&gt; 
-&lt;a href='../g10/40423251'&gt;40423251&lt;/a&gt; 
-&lt;br /&gt;
-&lt;a href='../g11'&gt;第11組&lt;/a&gt;:&lt;br /&gt;
-&lt;a href='../g11/40423234'&gt;40423234&lt;/a&gt; 
-&lt;a href='../g11/40423242'&gt;40423242&lt;/a&gt; 
-&lt;a href='../g11/40423244'&gt;40423244&lt;/a&gt; 
-&lt;a href='../g11/40423247'&gt;40423247&lt;/a&gt; 
-&lt;a href='../g11/40423249'&gt;40423249&lt;/a&gt; 
-&lt;a href='../g11/40423252'&gt;40423252&lt;/a&gt; 
-&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;以下為分組資料處理程式:&lt;/p&gt;
-&lt;pre class="brush: python"&gt;
-content = open("2016fall_cadp_b_groups.txt").read()
-#print(content)
-result = content.splitlines()
-#print(result)
-gno = 1
-for i in range(len(result)):
-    #print(result[i])
-    group = result[i].split(":")
-    #列出組序
-    print("&amp;lt;a href='../g"+str(gno)+"'&amp;gt;第"+str(gno)+"組&amp;lt;/a&amp;gt;:&amp;lt;br /&amp;gt;")
-    #print("第"+str(gno)+"組:&amp;lt;br /&amp;gt;")
-    #取 group 第2成員, 用逗點隔開納入數列後, 利用[:-1]去掉最後空白
-    #print(group[1].split(",")[:-1])
-    gmember = group[1].split(",")[:-1]
-    for j in range(len(gmember)):
-        #print(gmember[j])
-        print("&amp;lt;a href='../g"+str(gno)+"/"+str(gmember[j])+"'&amp;gt;"+ \
-        str(gmember[j])+"&amp;lt;/a&amp;gt; ")
-    print("&amp;lt;br /&amp;gt;")
-    gno = gno + 1
-&lt;/pre&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry></feed>
+&lt;p&gt;把分支的預設值改為gh-pages&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/190064489" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category><category term="影片講解"></category></entry><entry><title>20160916W1</title><link href="./20160916w1.html" rel="alternate"></link><updated>2016-09-16T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-09-16:./20160916w1.html</id><summary type="html">&lt;h2&gt;利用中秋連假複習之前學過的指令&lt;/h2&gt;
+
+&lt;p&gt;切換到2016fallcadp_hw的分支&lt;/p&gt;
+
+&lt;pre&gt;cd &lt;u&gt;分支名稱&lt;/u&gt;
+(例如:cd 2016fallcadp_hw)&lt;/pre&gt;
+
+&lt;p&gt;回到上一個分支&lt;/p&gt;
+
+&lt;pre&gt;cd ..&lt;/pre&gt;
+
+&lt;p&gt;會新建一個40423226的資料夾,並把遠端資料存在裡面&lt;/p&gt;
+
+&lt;pre&gt;git clone &lt;u&gt;倉儲網址&lt;/u&gt; &lt;u&gt;分支名稱&lt;/u&gt;
+(例如:git clone https://github.com/40423226/2016fallcadp_hw.git 40423226)&lt;/pre&gt;
+
+&lt;p&gt;檢查分支&lt;/p&gt;
+
+&lt;pre&gt;git branch&lt;/pre&gt;
+
+&lt;p&gt;建立一個gh-pages名稱的分支&lt;/p&gt;
+
+&lt;pre&gt;git branch &lt;u&gt;分支名稱&lt;/u&gt;
+(例如:git branch gh-pages)&lt;/pre&gt;
+
+&lt;p&gt;切換到指定的gh-pages分支&lt;/p&gt;
+
+&lt;pre&gt;git checkout &lt;u&gt;分支名稱&lt;/u&gt;
+(例如:git checkout gh-pages)&lt;/pre&gt;
+
+&lt;pre&gt;git add -A&lt;/pre&gt;
+
+&lt;pre&gt;git commit -m"&lt;u&gt;改版內容&lt;/u&gt;"
+(例如:git commit -m"yen.leo update")&lt;/pre&gt;
+
+&lt;p&gt;推送進端資料到遠端,並且指定推送到gh-pages的分支&lt;/p&gt;
+
+&lt;pre&gt;git push origin &lt;u&gt;分支名稱&lt;/u&gt;
+(例如:git push origin gh-pages)&lt;/pre&gt;
+
+&lt;pre&gt;git pull&lt;/pre&gt;
+
+&lt;p&gt;收尋該檔案名稱,並逐一確認是否刪除&lt;/p&gt;
+
+&lt;pre&gt;git rm &lt;u&gt;檔案名稱&lt;/u&gt;&lt;/pre&gt;
+
+&lt;p&gt;回到之前072e3af的版本資料&lt;/p&gt;
+
+&lt;pre&gt;git reset --hard &lt;u&gt;版本代碼&lt;/u&gt;
+(例如:git reset --hard 072e3af)&lt;/pre&gt;
+
+&lt;p&gt;直接刪除所有該檔案名稱的檔案&lt;/p&gt;
+
+&lt;pre&gt;git rm &lt;u&gt;檔案名稱&lt;/u&gt; -f&lt;/pre&gt;</summary><category term="上課內容"></category></entry><entry><title>Other</title><link href="./other.html" rel="alternate"></link><updated>2016-09-01T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-09-01:./other.html</id><summary type="html">&lt;h2&gt;使用環境設定&lt;/h2&gt;
+
+&lt;pre&gt;
+git config --global http.proxy http://proxy.mde.tw:3128
+git config --global https.proxy http://proxy.mde.tw:3128
+git config --global user.email "40423226@gm.nfu.edu.tw"
+git config --global user.name "40423226"&lt;/pre&gt;
+
+&lt;h2&gt;子模組&lt;/h2&gt;
+
+&lt;p&gt;用40423226的名稱把https://github.com/40423226/2016fallcadp_hw的倉儲加入為子模組&lt;/p&gt;
+
+&lt;pre&gt;git submodule add -b gh-pages &lt;u&gt;子模組網址&lt;/u&gt; &lt;u&gt;子模組名稱&lt;/u&gt;
+(例如:git submodule add -b gh-pages https://github.com/40423226/2016fallcadp_hw 40423226)&lt;/pre&gt;
+
+&lt;p&gt;更新子模組的資料,甚至更新子模組裡子模組的資料&lt;/p&gt;
+
+&lt;pre&gt;git submodule update --init --recursive&lt;/pre&gt;
+
+&lt;h2&gt;HTML文字語法&lt;/h2&gt;
+
+&lt;h1&gt;h1&lt;/h1&gt;
+
+&lt;h2&gt;h2&lt;/h2&gt;
+
+&lt;h3&gt;h3&lt;/h3&gt;
+
+&lt;h4&gt;h4&lt;/h4&gt;
+
+&lt;h5&gt;h5&lt;/h5&gt;
+
+&lt;h6&gt;h6&lt;/h6&gt;
+
+&lt;pre&gt;
+&amp;lt;h1&gt;h1&amp;lt;/h1&gt;
+&amp;lt;h2&gt;h2&amp;lt;/h2&gt;
+&amp;lt;h3&gt;h3&amp;lt;/h3&gt;
+&amp;lt;h4&gt;h4&amp;lt;/h4&gt;
+&amp;lt;h5&gt;h5&amp;lt;/h5&gt;
+&amp;lt;h6&gt;h6&amp;lt;/h6&gt;
+&lt;/pre&gt;
+
+&lt;p align="center"&gt;置中&lt;/p&gt;
+
+&lt;pre&gt;&amp;lt;p align="center"&gt;置中&amp;lt;/p&gt;&lt;/pre&gt;
+
+&lt;p align="right"&gt;靠右&lt;/p&gt;
+
+&lt;pre&gt;&amp;lt;p align="right"&gt;靠右&amp;lt;/p&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;b&gt;粗體&lt;/b&gt;&lt;/p&gt;
+
+&lt;pre&gt;&amp;lt;b&gt;粗體&amp;lt;/b&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;i&gt;斜體&lt;/i&gt;&lt;/p&gt;
+
+&lt;pre&gt;&amp;lt;i&gt;斜體&amp;lt;/i&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;u&gt;底線&lt;/u&gt;&lt;/p&gt;
+
+&lt;pre&gt;&amp;lt;u&gt;底線&amp;lt;/u&gt;&lt;/pre&gt;</summary><category term="環境設定"></category><category term="子模組"></category><category term="HTML文字語法"></category></entry></feed>

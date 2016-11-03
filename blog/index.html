@@ -279,19 +279,21 @@ init_mathjax();
 
             <article>
                 <h2><a href="./20161028w7.html">20161028W7</a></h2>
-                <div class="summary"><h2>移除先前設定的子模組</h2>
+                <div class="summary"><p>使用Trace Point計算路徑<p>
+<iframe src="https://player.vimeo.com/video/190090265" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+<p>路徑圖</p>
+<a><img src="../photo/Trace Point.PNG" /></a>
+
+<h2>解決子模組設定的問題</h2>
 <p>把以下多餘的設定刪掉</p>
-
 <pre>
 [submodule "2016fallcadp_hw"]
     path = 2016fallcadp_hw
     url = https://github.com/40423226/2016fallcadp_hw.git
     branch = gh-pages
 </pre>
-
 <p>更改後為以下的內容</p>
-
 <pre>
 [submodule "40423206"]
     path = 40423206
@@ -303,7 +305,7 @@ init_mathjax();
     branch = gh-pages
 [submodule "40423226"]
     path = 40423226
-    url = https://github.com ...</pre>
+    url ...</pre></p></p>
                     <a class="btn btn-default btn-xs" href="./20161028w7.html">more ...</a>
                 </div>
             </article>
@@ -331,21 +333,39 @@ Y:\tmp\2016fallcadp_bg6>git submodule add -b gh-pages https://github.com/4042322
             <hr/>
             <article>
                 <h2><a href="./20161014w5.html">20161014W5</a></h2>
-                <div class="summary"><p>W5</p>
+                <div class="summary"><p>初步認識SolveSpace<p>
+<iframe src="https://player.vimeo.com/video/190087085" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                     <a class="btn btn-default btn-xs" href="./20161014w5.html">more ...</a>
                 </div>
             </article>
             <hr/>
             <article>
                 <h2><a href="./20161007w4.html">20161007W4</a></h2>
-                <div class="summary"><p>W4</p>
+                <div class="summary"><p>設定使用者資料,讓可攜程式更方便</p>
+
+<iframe src="https://player.vimeo.com/video/190072906" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<p>用2016fallcadp_bg6的名稱,建立小組倉儲</p>
+
+<iframe src="https://player.vimeo.com/video/190075715" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                     <a class="btn btn-default btn-xs" href="./20161007w4.html">more ...</a>
                 </div>
             </article>
             <hr/>
             <article>
                 <h2><a href="./20160930w3.html">20160930W3</a></h2>
-                <div class="summary"><h2>解決近端設定代理主機的問題</h2>
+                <div class="summary"><p>複製網誌和簡報的設定檔到2016fallcadp_hw的倉儲</p>
+
+<iframe src="https://player.vimeo.com/video/190065696" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<p>更改2016fallcadp_hw的README.md檔案</p>
+
+<pre>簡報: https://40423226.github.io/2016fallcadp_hw
+網址: https://40423226.github.io/2016fallcadp_hw/blog/</pre>
+
+<iframe src="https://player.vimeo.com/video/190066620" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<h2>解決近端設定代理主機的問題</h2>
 
 <p>每次上課須執行以下指令</p>
 
@@ -358,35 +378,79 @@ git config --global https.proxy http://proxy.mde.tw:3128
 
 <pre>
 warning: http.proxy has multiple values
-error: cannot overwrite multiple values with a single value
-       Use a regexp, --add or --replace-all to change http.proxy.
-</pre>
-
-<p>發現在Y:\home的 ...</p>
+error: cannot overwrite multiple values ...</pre>
                     <a class="btn btn-default btn-xs" href="./20160930w3.html">more ...</a>
                 </div>
             </article>
             <hr/>
             <article>
                 <h2><a href="./20160923w2.html">20160923W2</a></h2>
-                <div class="summary"><p>W2</p>
+                <div class="summary"><p>建立40423226.github.io名稱的倉儲</p>
+
+<iframe src="https://player.vimeo.com/video/190063679" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<p>把分支的預設值改為gh-pages</p>
+
+<iframe src="https://player.vimeo.com/video/190064489" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                     <a class="btn btn-default btn-xs" href="./20160923w2.html">more ...</a>
                 </div>
             </article>
             <hr/>
             <article>
                 <h2><a href="./20160916w1.html">20160916W1</a></h2>
-                <div class="summary"><p>W1
-<a><img src="../photo/LEO.PNG" /></a></p>
+                <div class="summary"><h2>利用中秋連假複習之前學過的指令</h2>
+
+<p>切換到2016fallcadp_hw的分支</p>
+
+<pre>cd <u>分支名稱</u>
+(例如:cd 2016fallcadp_hw)</pre>
+
+<p>回到上一個分支</p>
+
+<pre>cd ..</pre>
+
+<p>會新建一個40423226的資料夾,並把遠端資料存在裡面</p>
+
+<pre>git clone <u>倉儲網址</u> <u>分支名稱</u>
+(例如:git clone https://github.com/40423226/2016fallcadp_hw.git 40423226)</pre>
+
+<p>檢查分支</p>
+
+<pre>git branch</pre>
+
+<p>建立一個gh-pages名稱的分支</p>
+
+<pre>git branch <u>分支名稱</u>
+(例如:git branch gh-pages)</pre>
+
+<p>切換到指定的gh-pages分支</p>
+
+<pre>git checkout <u>分支名稱</u>
+(例如:git checkout gh-pages)</pre>
+
+<pre>git add -A</pre>
+
+<pre>git commit -m ...</pre>
                     <a class="btn btn-default btn-xs" href="./20160916w1.html">more ...</a>
                 </div>
             </article>
             <hr/>
             <article>
-                <h2><a href="./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html">2016Fall 機械設計主題教學</a></h2>
-                <div class="summary"><p>知識管理與最佳化應用實驗室試圖利用計算機程式、網際內容管理、電腦輔助設計實習與協同產品設計實習等課程, 進行與機械設計相關的主題式教學, 其中包含強化創造力的教學、令學員熟習六種工程表達方式, 並且俱備融入協同設計所需要的四大面向知識與技能.</p>
+                <h2><a href="./other.html">Other</a></h2>
+                <div class="summary"><h2>使用環境設定</h2>
 
-                    <a class="btn btn-default btn-xs" href="./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html">more ...</a>
+<pre>
+git config --global http.proxy http://proxy.mde.tw:3128
+git config --global https.proxy http://proxy.mde.tw:3128
+git config --global user.email "40423226@gm.nfu.edu.tw"
+git config --global user.name "40423226"</pre>
+
+<h2>子模組</h2>
+
+<p>用40423226的名稱把https://github.com/40423226/2016fallcadp_hw的倉儲加入為子模組</p>
+
+<pre>git submodule add -b gh-pages <u>子模組網址</u> <u>子模組名稱 ...</u></pre>
+                    <a class="btn btn-default btn-xs" href="./other.html">more ...</a>
                 </div>
             </article>
             <hr/>
