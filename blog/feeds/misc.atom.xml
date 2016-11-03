@@ -39,7 +39,7 @@
     path = 40423216
     url = https://github.com/40423216/2016fallcadp_hw.git
     branch = gh-pages
-&lt;/pre&gt;</summary><category term="上課內容"></category><category term="影片講解"></category><category term="解決問題"></category></entry><entry><title>20161021W6</title><link href="./20161021w6.html" rel="alternate"></link><updated>2016-10-21T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-21:./20161021w6.html</id><summary type="html">&lt;h2&gt;解決子模組在對應上的問題&lt;/h2&gt;
+&lt;/pre&gt;</summary><category term="上課內容"></category><category term="影片講解"></category><category term="解決問題"></category><category term="子模組"></category></entry><entry><title>20161021W6</title><link href="./20161021w6.html" rel="alternate"></link><updated>2016-10-21T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-21:./20161021w6.html</id><summary type="html">&lt;h2&gt;解決子模組在對應上的問題&lt;/h2&gt;
 
 &lt;p&gt;因為之前的2016fallcadp_hw倉儲少複製了一些東西,刪除舊的倉儲後,重新做一個和之前倉儲同名的2016fallcadp_hw倉儲,但是在小組倉儲所連結的子模組,抓不到新倉儲連結,所以我們需要重新加入一次組員倉儲的資料&lt;/p&gt;
 
@@ -126,7 +126,7 @@ git rm asubmodule
 git rm --cached asubmodule
 &lt;/pre&gt;
 
-&lt;p&gt;但是在2016fallcadp_bg6\.git\modules裡的隱藏資料夾,還是需要自己動手刪除&lt;/p&gt;</summary><category term="上課內容"></category><category term="影片講解"></category><category term="解決問題"></category></entry><entry><title>20161014W5</title><link href="./20161014w5.html" rel="alternate"></link><updated>2016-10-14T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-14:./20161014w5.html</id><summary type="html">&lt;p&gt;初步認識SolveSpace&lt;p&gt;
+&lt;p&gt;但是在2016fallcadp_bg6\.git\modules裡的隱藏資料夾,還是需要自己動手刪除&lt;/p&gt;</summary><category term="上課內容"></category><category term="影片講解"></category><category term="解決問題"></category><category term="子模組"></category></entry><entry><title>20161014W5</title><link href="./20161014w5.html" rel="alternate"></link><updated>2016-10-14T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-14:./20161014w5.html</id><summary type="html">&lt;p&gt;初步認識SolveSpace&lt;p&gt;
 &lt;iframe src="https://player.vimeo.com/video/190087085" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category><category term="影片講解"></category></entry><entry><title>20161007W4</title><link href="./20161007w4.html" rel="alternate"></link><updated>2016-10-07T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-07:./20161007w4.html</id><summary type="html">&lt;p&gt;設定使用者資料,讓可攜程式更方便&lt;/p&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/190072906" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -185,7 +185,7 @@ error: cannot overwrite multiple values with a single value
 [user]
     email = 40423226@gm.nfu.edu.tw
     name = 40423226
-&lt;/pre&gt;&lt;/p&gt;</summary><category term="上課內容"></category><category term="影片講解"></category><category term="解決問題"></category></entry><entry><title>20160923W2</title><link href="./20160923w2.html" rel="alternate"></link><updated>2016-09-23T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-09-23:./20160923w2.html</id><summary type="html">&lt;p&gt;建立40423226.github.io名稱的倉儲&lt;/p&gt;
+&lt;/pre&gt;&lt;/p&gt;</summary><category term="上課內容"></category><category term="影片講解"></category><category term="解決問題"></category><category term="環境設定"></category></entry><entry><title>20160923W2</title><link href="./20160923w2.html" rel="alternate"></link><updated>2016-09-23T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-09-23:./20160923w2.html</id><summary type="html">&lt;p&gt;建立40423226.github.io名稱的倉儲&lt;/p&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/190063679" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
