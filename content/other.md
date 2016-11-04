@@ -15,8 +15,10 @@ git config --global user.name "40423226"</pre>
 <p>用40423226的名稱把https://github.com/40423226/2016fallcadp_hw的倉儲加入為子模組</p>
 <pre>git submodule add -b gh-pages <u>子模組網址</u> <u>子模組名稱</u>
 (例如:git submodule add -b gh-pages https://github.com/40423226/2016fallcadp_hw 40423226)</pre>
-<p>更新子模組的資料,甚至更新子模組裡子模組的資料</p>
+<p>抓對應子模組的版本</p>
 <pre>git submodule update --init --recursive</pre>
+<p>更新子模組的資料,甚至更新子模組裡子模組的資料</p>
+<pre>git submodule foreach "(git checkout gh-pages; git pull)&"</pre>
 
 <h2>HTML文字語法</h2>
 <h1>h1</h1>

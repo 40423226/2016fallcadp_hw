@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423226個人網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-10-28T12:00:00+08:00</updated><entry><title>20161028W7</title><link href="./20161028w7.html" rel="alternate"></link><updated>2016-10-28T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-28:./20161028w7.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423226個人網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-11-04T12:00:00+08:00</updated><entry><title>20161104W8</title><link href="./20161104w8.html" rel="alternate"></link><updated>2016-11-04T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-11-04:./20161104w8.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161028W7</title><link href="./20161028w7.html" rel="alternate"></link><updated>2016-10-28T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-28:./20161028w7.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;
 &lt;iframe src="https://player.vimeo.com/video/190090265" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;路徑圖&lt;/p&gt;
 &lt;a&gt;&lt;img src="../photo/Trace Point.PNG" /&gt;&lt;/a&gt;
 
 &lt;h2&gt;解決子模組設定的問題&lt;/h2&gt;
-&lt;p&gt;把以下多餘的設定刪掉&lt;/p&gt;
+&lt;p&gt;把以下多餘的子模組刪掉&lt;/p&gt;
 &lt;pre&gt;
 [submodule "2016fallcadp_hw"]
     path = 2016fallcadp_hw
@@ -259,9 +259,13 @@ git config --global user.name "40423226"&lt;/pre&gt;
 &lt;pre&gt;git submodule add -b gh-pages &lt;u&gt;子模組網址&lt;/u&gt; &lt;u&gt;子模組名稱&lt;/u&gt;
 (例如:git submodule add -b gh-pages https://github.com/40423226/2016fallcadp_hw 40423226)&lt;/pre&gt;
 
-&lt;p&gt;更新子模組的資料,甚至更新子模組裡子模組的資料&lt;/p&gt;
+&lt;p&gt;抓對應子模組的版本&lt;/p&gt;
 
 &lt;pre&gt;git submodule update --init --recursive&lt;/pre&gt;
+
+&lt;p&gt;更新子模組的資料,甚至更新子模組裡子模組的資料&lt;/p&gt;
+
+&lt;pre&gt;git submodule foreach "(git checkout gh-pages; git pull)&amp;"&lt;/pre&gt;
 
 &lt;h2&gt;HTML文字語法&lt;/h2&gt;
 

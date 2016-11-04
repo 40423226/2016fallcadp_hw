@@ -94,6 +94,14 @@
 <v t="leo.20161103233616.3"><vh>使用Trace Point計算路徑</vh></v>
 </v>
 </v>
+<v t="leo.20161104203720.1"><vh>20161104W8</vh>
+<v t="leo.20161104203720.2"><vh>上課日期</vh>
+<v t="leo.20161104203720.3"><vh>20161104</vh></v>
+</v>
+<v t="leo.20161104203720.4"><vh>上課內容1</vh>
+<v t="leo.20161104203720.5"><vh>使用Trace Point計算路徑</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -122,10 +130,11 @@
 <v t="leo.20161028153029.1"><vh>@edit 20161014.md</vh></v>
 <v t="leo.20161028153102.1"><vh>@edit 20161021.md</vh></v>
 <v t="leo.20161028153104.1"><vh>@edit 20161028.md</vh></v>
+<v t="leo.20161104203621.1"><vh>@edit 20161104.md</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
+<v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -468,12 +477,10 @@ redirecting ....
 						
 </t>
 <t tx="leo.20161014111031.8">## 2016Fall 電腦輔助設計實習課程
-
 ### 虎科大機械設計工程系
 ### 設計二乙
 ### 40423226
 ### 胡原愷
-
 
 &lt;small&gt;
 Created by [40423226](https://40423226.github.io/2016fallcadp_hw/blog/)
@@ -639,6 +646,36 @@ Created by [40423226](https://40423226.github.io/2016fallcadp_hw/blog/)
 						
 </t>
 <t tx="leo.20161104011701.2">## 2016-10-28 第七週
+
+</t>
+<t tx="leo.20161104203720.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161104203720.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161104203720.3">## 2016-11-04 第八週
+
+</t>
+<t tx="leo.20161104203720.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161104203720.5">## 使用Trace Point計算路徑
+
+&lt;iframe src="https://player.vimeo.com/video/190090265" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
 
 </t>
 </tnodes>
