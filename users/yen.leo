@@ -20,7 +20,7 @@
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="leo.20161013190948.1"><vh>@@edit index.html</vh></v>
-<v t="leo.20161014111031.1" a="E"><vh>@clean index.html</vh>
+<v t="leo.20161014111031.1"><vh>@clean index.html</vh>
 <v t="leo.20161014111031.2" a="E"><vh>html</vh>
 <v t="leo.20161014111031.3"><vh>head</vh></v>
 <v t="leo.20161014111031.4" a="E"><vh>body</vh>
@@ -94,12 +94,12 @@
 <v t="leo.20161103233616.3"><vh>使用Trace Point計算路徑</vh></v>
 </v>
 </v>
-<v t="leo.20161104203720.1"><vh>20161104W8</vh>
+<v t="leo.20161104203720.1" a="E"><vh>20161104W8</vh>
 <v t="leo.20161104203720.2"><vh>上課日期</vh>
 <v t="leo.20161104203720.3"><vh>20161104</vh></v>
 </v>
-<v t="leo.20161104203720.4"><vh>上課內容1</vh>
-<v t="leo.20161104203720.5"><vh>使用Trace Point計算路徑</vh></v>
+<v t="leo.20161104203720.4" a="E"><vh>上課內容1</vh>
+<v t="leo.20161104203720.5"><vh>期中課程評量</vh></v>
 </v>
 </v>
 </v>
@@ -672,10 +672,9 @@ Created by [40423226](https://40423226.github.io/2016fallcadp_hw/blog/)
 
 						
 </t>
-<t tx="leo.20161104203720.5">## 使用Trace Point計算路徑
+<t tx="leo.20161104203720.5">## 期中課程評分
 
-&lt;iframe src="https://player.vimeo.com/video/190090265" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;p&gt;&lt;a href="http://pygroup-ag100.rhcloud.com"&gt;評分系統&lt;/a&gt;&lt;/p&gt;
 
 </t>
 </tnodes>
