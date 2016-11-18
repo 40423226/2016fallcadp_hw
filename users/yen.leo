@@ -16,11 +16,12 @@
 <v t="amd.20160921213353.1"><vh>2016fall 簡報與網誌樣板系統</vh></v>
 <v t="amd.20160106095324.1" a="E"><vh>@path ./../</vh>
 <v t="leo.20151213173830.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
+<v t="leo.20161118111218.1"><vh>@button https server</vh></v>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="leo.20161013190948.1"><vh>@@edit index.html</vh></v>
-<v t="leo.20161014111031.1" a="E"><vh>@clean index.html</vh>
+<v t="leo.20161014111031.1"><vh>@clean index.html</vh>
 <v t="leo.20161014111031.2" a="E"><vh>html</vh>
 <v t="leo.20161014111031.3"><vh>head</vh></v>
 <v t="leo.20161014111031.4" a="E"><vh>body</vh>
@@ -115,7 +116,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151213230723.1" a="E"><vh>Pelican 設定</vh>
+<v t="leo.20151213230723.1"><vh>Pelican 設定</vh>
 <v t="leo.20151213230957.1"><vh>文章 Date 設定</vh></v>
 <v t="leo.20151213230729.1"><vh>使用 summary plugin</vh></v>
 </v>
@@ -140,6 +141,7 @@
 <v t="leo.20161028153104.1"><vh>@edit 20161028.md</vh></v>
 <v t="leo.20161104203621.1"><vh>@edit 20161104.md</vh></v>
 <v t="leo.20161115000357.1"><vh>@edit 20161111.md</vh></v>
+<v t="leo.20161118112100.1"><vh>@edit 20161118.md</vh></v>
 </v>
 </v>
 </v>
@@ -715,5 +717,27 @@ Created by [40423226](https://40423226.github.io/2016fallcadp_hw/blog/)
 &lt;p&gt;&lt;a href="http://mde.tw/2016fallcadp/blog/2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html"&gt;檢查自己的連結是否正確&lt;/a&gt;&lt;/p&gt;
 
 </t>
+<t tx="leo.20161118111218.1">@language python
+import os
+import subprocess
+import threading
+import http.server, ssl
+
+def domake():
+    # build directory
+    os.chdir("./../")
+    server_address = ('localhost', 8443)
+    httpd = http.server.HTTPServer(server_address, http.server.SimpleHTTPRequestHandler)
+    httpd.socket = ssl.wrap_socket(httpd.socket,
+                                   server_side=True,
+                                   certfile='localhost.crt',
+                                   keyfile='localhost.key',
+                                   ssl_version=ssl.PROTOCOL_TLSv1)
+    print("8443 https server started")
+    httpd.serve_forever()
+
+# 利用執行緒執行 https 伺服器
+make = threading.Thread(target=domake)
+make.start()</t>
 </tnodes>
 </leo_file>
