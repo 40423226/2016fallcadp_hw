@@ -105,10 +105,26 @@
 </v>
 <v t="leo.20161115000909.1"><vh>20161111W9</vh>
 <v t="leo.20161115000909.2"><vh>上課日期</vh>
-<v t="leo.20161115000909.3"><vh>20161104</vh></v>
+<v t="leo.20161115000909.3"><vh>20161118</vh></v>
 </v>
 <v t="leo.20161115000909.4"><vh>上課內容1</vh>
 <v t="leo.20161115000909.5"><vh>期中自我評分</vh></v>
+</v>
+</v>
+<v t="leo.20161124210839.1"><vh>20161118W10</vh>
+<v t="leo.20161124210839.2"><vh>上課日期</vh>
+<v t="leo.20161124210839.3"><vh>20161118</vh></v>
+</v>
+<v t="leo.20161124210839.4"><vh>上課內容1</vh>
+<v t="leo.20161124210839.5"><vh>Solvespace 平面四連桿機構模擬</vh></v>
+</v>
+</v>
+<v t="leo.20161124210841.1"><vh>20161125W11</vh>
+<v t="leo.20161124210841.2"><vh>上課日期</vh>
+<v t="leo.20161124210841.3"><vh>20161125</vh></v>
+</v>
+<v t="leo.20161124210841.4"><vh>上課內容1</vh>
+<v t="leo.20161124210841.5"><vh>校慶</vh></v>
 </v>
 </v>
 </v>
@@ -132,6 +148,8 @@
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
 <v t="leo.20161103210534.1"><vh>@edit other.md</vh></v>
+<v t="leo.20161124192958.1"><vh>@edit SolveSpace.md</vh></v>
+<v t="leo.20161124193849.1"><vh>@edit Onshape.md</vh></v>
 <v t="leo.20161028152823.1"><vh>@edit 20160916.md</vh></v>
 <v t="leo.20161028153027.1"><vh>@edit 20160923.md</vh></v>
 <v t="leo.20161028153031.1"><vh>@edit 20160930.md</vh></v>
@@ -142,6 +160,7 @@
 <v t="leo.20161104203621.1"><vh>@edit 20161104.md</vh></v>
 <v t="leo.20161115000357.1"><vh>@edit 20161111.md</vh></v>
 <v t="leo.20161118112100.1"><vh>@edit 20161118.md</vh></v>
+<v t="leo.20161124205906.1"><vh>@edit 20161125.md</vh></v>
 </v>
 </v>
 </v>
@@ -700,7 +719,7 @@ Created by [40423226](https://40423226.github.io/2016fallcadp_hw/blog/)
 
 						
 </t>
-<t tx="leo.20161115000909.3">## 2016-11-04 第八週
+<t tx="leo.20161115000909.3">## 2016-11-18 第九週
 
 </t>
 <t tx="leo.20161115000909.4">&lt;section data-markdown&gt;
@@ -739,5 +758,59 @@ def domake():
 # 利用執行緒執行 https 伺服器
 make = threading.Thread(target=domake)
 make.start()</t>
+<t tx="leo.20161124210839.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161124210839.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161124210839.3">## 2016-11-18 第十週
+
+</t>
+<t tx="leo.20161124210839.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161124210839.5">## Solvespace 平面四連桿機構模擬
+
+&lt;iframe src="https://player.vimeo.com/video/192930481" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20161124210841.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161124210841.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161124210841.3">## 2016-11-25 第十一週
+
+</t>
+<t tx="leo.20161124210841.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161124210841.5">&lt;h2&gt;&lt;a href="http://140.130.31.20/march/nfu.html#"&gt;虎科大36週年校慶&lt;/a&gt;&lt;/h2&gt;</t>
 </tnodes>
 </leo_file>
