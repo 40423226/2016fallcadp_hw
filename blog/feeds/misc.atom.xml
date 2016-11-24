@@ -20,7 +20,11 @@
 
 
 &lt;h2&gt;Solvespace 平面四連桿機構模擬&lt;/h2&gt;
-&lt;p&gt;直接利用 Solvespace Analyze-Trace Point-Stop Trace 得到下列繞行路徑:&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/192930481" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;路徑圖&lt;/p&gt;
+
 &lt;p&gt;&lt;img src="../image/solvespace.png" width="800" /&gt;&lt;/p&gt;
 &lt;p&gt;將所得到的點座標 .csv 以 Excel 畫圖, 得到:&lt;/p&gt;
 &lt;p&gt;&lt;img src="../image/Excel.png" width="800" /&gt;&lt;/p&gt;
