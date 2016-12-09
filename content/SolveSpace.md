@@ -23,4 +23,4 @@ Author: 40423226
 <p>Strut</p>
 <iframe src="../data/solvespace/strut.html" width="800" height="600"></iframe>
 <p>組合</p>
-<iframe src="../data/solvespace/cube&strut.html" width="800" height="600"></iframe>
+<iframe src="../data/solvespace/cube_strut.html" width="800" height="600"></iframe>
