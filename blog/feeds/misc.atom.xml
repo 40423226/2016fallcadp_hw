@@ -25,7 +25,11 @@
 
 &lt;p&gt;Strut&lt;/p&gt;
 
-&lt;iframe src="../data/solvespace/strut.html" width="800" height="600"&gt;&lt;/iframe&gt;</summary><category term="SolveSpace"></category></entry><entry><title>20161125W11</title><link href="./20161125w11.html" rel="alternate"></link><published>2016-11-25T12:00:00+08:00</published><updated>2016-11-25T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-11-25:./20161125w11.html</id><summary type="html">&lt;h2&gt;&lt;a href="http://140.130.31.20/march/nfu.html#"&gt;虎科大36週年校慶&lt;/a&gt;&lt;/h2&gt;</summary><category term="虎科大36週年校慶"></category></entry><entry><title>20161118W10</title><link href="./20161118w10.html" rel="alternate"></link><published>2016-11-18T12:00:00+08:00</published><updated>2016-11-18T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-11-18:./20161118w10.html</id><summary type="html">&lt;p&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證&lt;/p&gt;
+&lt;iframe src="../data/solvespace/strut.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;組合&lt;/p&gt;
+
+&lt;iframe src="../data/solvespace/cube&amp;strut.html" width="800" height="600"&gt;&lt;/iframe&gt;</summary><category term="SolveSpace"></category></entry><entry><title>20161125W11</title><link href="./20161125w11.html" rel="alternate"></link><published>2016-11-25T12:00:00+08:00</published><updated>2016-11-25T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-11-25:./20161125w11.html</id><summary type="html">&lt;h2&gt;&lt;a href="http://140.130.31.20/march/nfu.html#"&gt;虎科大36週年校慶&lt;/a&gt;&lt;/h2&gt;</summary><category term="虎科大36週年校慶"></category></entry><entry><title>20161118W10</title><link href="./20161118w10.html" rel="alternate"></link><published>2016-11-18T12:00:00+08:00</published><updated>2016-11-18T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-11-18:./20161118w10.html</id><summary type="html">&lt;p&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證&lt;/p&gt;
 
 
 &lt;h2&gt;Solvespace 平面四連桿機構模擬&lt;/h2&gt;
