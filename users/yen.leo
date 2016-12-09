@@ -127,6 +127,31 @@
 <v t="leo.20161124210841.5"><vh>校慶</vh></v>
 </v>
 </v>
+<v t="leo.20161209165346.1"><vh>20161202W12</vh>
+<v t="leo.20161209165346.2"><vh>上課日期</vh>
+<v t="leo.20161209165346.3"><vh>20161202</vh></v>
+</v>
+<v t="leo.20161209174033.1"><vh>上課內容1</vh>
+<v t="leo.20161209174033.2"><vh>利用SolveSpace存html檔</vh></v>
+</v>
+<v t="leo.20161209165346.4"><vh>上課內容2</vh>
+<v t="leo.20161209165346.5"><vh>SolveSpace_Cube</vh></v>
+</v>
+<v t="leo.20161209165937.1"><vh>上課內容3</vh>
+<v t="leo.20161209165937.2"><vh>SolveSpace_Strut</vh></v>
+</v>
+<v t="leo.20161209165942.1"><vh>上課內容4</vh>
+<v t="leo.20161209165942.2"><vh>SolveSpace_Combination</vh></v>
+</v>
+</v>
+<v t="leo.20161209165348.1"><vh>20161209W13</vh>
+<v t="leo.20161209165348.2"><vh>上課日期</vh>
+<v t="leo.20161209165348.3"><vh>20161209</vh></v>
+</v>
+<v t="leo.20161209165348.4"><vh>上課內容1</vh>
+<v t="leo.20161209165348.5"><vh>遠端網誌無法更新</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -161,6 +186,8 @@
 <v t="leo.20161115000357.1"><vh>@edit 20161111.md</vh></v>
 <v t="leo.20161118112100.1"><vh>@edit 20161118.md</vh></v>
 <v t="leo.20161124205906.1"><vh>@edit 20161125.md</vh></v>
+<v t="leo.20161209153338.1"><vh>@edit 20161202.md</vh></v>
+<v t="leo.20161209153340.1"><vh>@edit 20161209.md</vh></v>
 </v>
 </v>
 </v>
@@ -811,6 +838,96 @@ make.start()</t>
 
 						
 </t>
-<t tx="leo.20161124210841.5">&lt;h2&gt;&lt;a href="http://140.130.31.20/march/nfu.html#"&gt;虎科大36週年校慶&lt;/a&gt;&lt;/h2&gt;</t>
+<t tx="leo.20161124210841.5">## 虎科大36週年校慶</t>
+<t tx="leo.20161209165346.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161209165346.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209165346.3">## 2016-12-02 第十二週
+
+</t>
+<t tx="leo.20161209165346.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209165346.5">## Cube
+&lt;iframe src="https://player.vimeo.com/video/194943832" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161209165348.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161209165348.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209165348.3">## 2016-12-09 第十三週
+
+</t>
+<t tx="leo.20161209165348.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209165348.5">## 遠端網誌無法更新
+
+&lt;p&gt;近端利用瀏覽器檢查網誌是正常,但是遠端的網誌卻沒有更新,發現推上去的資料出現問題,GitHub還親自寄信給我&lt;/p&gt;</t>
+<t tx="leo.20161209165937.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209165937.2">## Strut
+
+&lt;iframe src="https://player.vimeo.com/video/194943838" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161209165942.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209165942.2">## 組合
+
+&lt;iframe src="https://player.vimeo.com/video/194943848" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20161209174033.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209174033.2">## 利用SolveSpace存html檔
+
+&lt;iframe src="https://player.vimeo.com/video/194948275" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
