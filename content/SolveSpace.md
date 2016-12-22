@@ -22,8 +22,6 @@ Author: 40423226
 <p>路徑</p>
 <img src="../data/image/trace2.png" width="800" />
 <p>Python3 平面四連桿機構模擬</p>
-<canvas id="fourbar" width="600" height="400"></canvas>
-
 <!-- 導入 Brython 標準程式庫 -->
 
 <script type="text/javascript" 

@@ -793,9 +793,7 @@ git config --global user.name "40423226"&lt;/pre&gt;
 &lt;p&gt;路徑&lt;/p&gt;
 &lt;img src="../data/image/trace2.png" width="800" /&gt;
 &lt;p&gt;Python3 平面四連桿機構模擬&lt;/p&gt;
-&lt;canvas id="fourbar" width="600" height="400"&gt;&lt;/canvas&gt;&lt;/p&gt;
-&lt;!-- 導入 Brython 標準程式庫 --&gt;
-
+&lt;!-- 導入 Brython 標準程式庫 --&gt;&lt;/p&gt;
 &lt;script type="text/javascript" 
     src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
 &lt;/script&gt;
