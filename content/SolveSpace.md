@@ -23,6 +23,24 @@ Author: 40423226
 <img src="../data/image/trace2.png" width="800" />
 <p>Python3 平面四連桿機構模擬</p>
 <canvas id="fourbar" width="600" height="400"></canvas>
+
+<!-- 導入 Brython 標準程式庫 -->
+
+<script type="text/javascript" 
+    src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js">
+</script>
+
+<!-- 啟動 Brython -->
+
+<script>
+window.onload=function(){
+brython(1);
+}
+</script>
+
+<!-- 以下實際利用  Brython 畫兩條直線 -->
+
+<canvas id="fourbar" width="600" height="400"></canvas>
 <div id="container1"></div>
 <script type="text/python3">
 from browser import document as doc
@@ -71,7 +89,3 @@ ctx.strokeStyle = "blue"
 ctx.stroke()
 ctx.closePath()
 </script>
-
-<h2>用SolveSpace把檔案存成html檔,並且更改成http設定,利用嵌入網頁的指令,把html檔案放進網誌裡面</h2>
-<pre>&lt;iframe src="<u>檔案的相對位置</u>" width="800" height="600">&lt;/iframe></pre>
-<iframe src="https://player.vimeo.com/video/194948275" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
