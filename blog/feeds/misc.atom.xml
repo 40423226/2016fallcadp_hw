@@ -803,7 +803,7 @@ import math&lt;/p&gt;
 &lt;p&gt;canvas = doc["fourbar"]
 container1 = doc['container1']
 ctx = canvas.getContext("2d")&lt;/p&gt;
-&lt;p&gt;fourbar_data = open("./../data/solvespace/linkages.csv").read()
+&lt;p&gt;fourbar_data = open("../data/solvespace/linkages.csv").read()
 fourbar_list = fourbar_data.splitlines()&lt;/p&gt;
 &lt;h1&gt;container1 &amp;lt;= fourbar_list[0]&lt;/h1&gt;
 &lt;h1&gt;以下可以利用 ctx 物件進行畫圖&lt;/h1&gt;
