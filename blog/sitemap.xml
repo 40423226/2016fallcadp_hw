@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2016-12-30T11:46:44-00:00</lastmod>
+<lastmod>2017-01-01T03:29:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2016-12-30T11:46:44-00:00</lastmod>
+<lastmod>2017-01-01T03:29:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2016-12-30T11:46:44-00:00</lastmod>
+<lastmod>2017-01-01T03:29:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2016-12-30T11:46:44-00:00</lastmod>
+<lastmod>2017-01-01T03:29:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about-bg6/</loc>
-<lastmod>2016-12-30T09:24:41+08:00</lastmod>
+<lastmod>2017-01-01T00:29:30+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -179,21 +179,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/huan-jing-she-ding.html</loc>
-<lastmod>2016-09-30T12:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/solvespace.html</loc>
+<loc>./tag/jie-jue-wen-ti.html</loc>
 <lastmod>2016-12-23T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/shang-ke-nei-rong.html</loc>
+<loc>./tag/solvespace.html</loc>
 <lastmod>2016-12-30T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -214,13 +207,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/jie-jue-wen-ti.html</loc>
-<lastmod>2016-12-23T12:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>./tag/hu-ke-da-36zhou-nian-xiao-qing.html</loc>
 <lastmod>2016-11-25T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -228,8 +214,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./tag/shang-ke-nei-rong.html</loc>
+<lastmod>2016-12-30T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./tag/zi-mo-zu.html</loc>
 <lastmod>2016-10-28T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/huan-jing-she-ding.html</loc>
+<lastmod>2016-09-30T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

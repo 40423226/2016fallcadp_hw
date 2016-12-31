@@ -3,9 +3,40 @@
 
 &lt;p&gt;&lt;a href="https://github.com/40423226/2016fallcadp_hw/raw/gh-pages/data/ProEMechanism.pdf"&gt;下載ProEMechanism.pdf&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/18b8d5026b722b133d988d1d/w/57f7f2e35ad3b73bdfd112f7/e/c382d9a4ccc4a9183e4605c1"&gt;Mechanism Tutorial&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;adjuster_base&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="../data/image/Mechanism Tutorial.png" width="800" /&gt;&lt;/p&gt;</summary><category term="上課內容"></category><category term="OnShape"></category></entry><entry><title>20161223W15</title><link href="./20161223w15.html" rel="alternate"></link><published>2016-12-23T12:00:00+08:00</published><updated>2016-12-23T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-12-23:./20161223w15.html</id><summary type="html">&lt;h2&gt;W15&lt;/h2&gt;</summary><category term="上課內容"></category><category term="解決問題"></category><category term="SolveSpace"></category></entry><entry><title>20161216W14</title><link href="./20161216w14.html" rel="alternate"></link><published>2016-12-16T12:00:00+08:00</published><updated>2016-12-16T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-12-16:./20161216w14.html</id><summary type="html">&lt;h2&gt;&lt;a href="https://github.com/40423226/2016fallcadp_hw/raw/gh-pages/data/solvespace/delta_printer_v2.7z"&gt;下載delta_printer_v2&lt;/a&gt;&lt;/h2&gt;
+&lt;iframe src="../data/solvespace/Mechanism Tutorial/adjuster_base.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;adjuster&lt;/p&gt;
+
+&lt;iframe src="../data/solvespace/Mechanism Tutorial/adjuster.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;base&lt;/p&gt;
+
+&lt;iframe src="../data/solvespace/Mechanism Tutorial/base.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;connection&lt;/p&gt;
+
+&lt;iframe src="../data/solvespace/Mechanism Tutorial/connection.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;cylinder&lt;/p&gt;
+
+&lt;iframe src="../data/solvespace/Mechanism Tutorial/cylinder.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;handle&lt;/p&gt;
+
+&lt;iframe src="../data/solvespace/Mechanism Tutorial/handle.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;hinge&lt;/p&gt;
+
+&lt;iframe src="../data/solvespace/Mechanism Tutorial/hinge.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;piston&lt;/p&gt;
+
+&lt;iframe src="../data/solvespace/Mechanism Tutorial/piston.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;mechanism tutorial&lt;/p&gt;
+&lt;iframe src="../data/solvespace/Mechanism Tutorial/mechanism tutorial.html" width="800" height="480"&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="上課內容"></category><category term="OnShape"></category><category term="SolveSpace"></category></entry><entry><title>20161223W15</title><link href="./20161223w15.html" rel="alternate"></link><published>2016-12-23T12:00:00+08:00</published><updated>2016-12-23T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-12-23:./20161223w15.html</id><summary type="html">&lt;h2&gt;W15&lt;/h2&gt;</summary><category term="上課內容"></category><category term="解決問題"></category><category term="SolveSpace"></category></entry><entry><title>20161216W14</title><link href="./20161216w14.html" rel="alternate"></link><published>2016-12-16T12:00:00+08:00</published><updated>2016-12-16T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-12-16:./20161216w14.html</id><summary type="html">&lt;h2&gt;&lt;a href="https://github.com/40423226/2016fallcadp_hw/raw/gh-pages/data/solvespace/delta_printer_v2.7z"&gt;下載delta_printer_v2&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src="../data/solvespace/delta_printer_v2/delta_printer.png" width="800" /&gt;&lt;/p&gt;</summary><category term="上課內容"></category><category term="解決問題"></category><category term="SolveSpace"></category></entry><entry><title>20161209W13</title><link href="./20161209w13.html" rel="alternate"></link><published>2016-12-09T12:00:00+08:00</published><updated>2016-12-09T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-12-09:./20161209w13.html</id><summary type="html">&lt;h2&gt;用SolveSpace把檔案存成html檔,並且更改成http設定,利用嵌入網頁的指令,把html檔案放進網誌裡面&lt;/h2&gt;
 
