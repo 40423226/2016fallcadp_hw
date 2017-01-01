@@ -21,7 +21,7 @@
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="leo.20161013190948.1"><vh>@@edit index.html</vh></v>
-<v t="leo.20161014111031.1" a="E"><vh>@clean index.html</vh>
+<v t="leo.20161014111031.1"><vh>@clean index.html</vh>
 <v t="leo.20161014111031.2" a="E"><vh>html</vh>
 <v t="leo.20161014111031.3"><vh>head</vh></v>
 <v t="leo.20161014111031.4" a="E"><vh>body</vh>
@@ -982,8 +982,7 @@ make.start()</t>
 </t>
 <t tx="leo.20170101215257.5">## delta_printer
 
-&lt;h2&gt;&lt;a href="https://github.com/40423226/2016fallcadp_hw/raw/gh-pages/data/solvespace/delta_printer_v2.7z"&gt;下載delta_printer_v2&lt;/a&gt;&lt;/h2&gt;
-&lt;img src="../data/solvespace/delta_printer_v2/delta_printer.png" width="800" /&gt;</t>
+&lt;img src="data/solvespace/delta_printer_v2/delta_printer.png" width="800" /&gt;</t>
 <t tx="leo.20170101215259.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -1035,6 +1034,6 @@ make.start()</t>
 </t>
 <t tx="leo.20170101215301.5">## 繪製 Mechanism Tutorial
 
-&lt;iframe src="../data/solvespace/Mechanism Tutorial/mechanism tutorial.html" width="800" height="480"&gt;&lt;/iframe&gt;</t>
+&lt;img src="data/image/Mechanism Tutorial.png" width="800" /&gt;</t>
 </tnodes>
 </leo_file>
