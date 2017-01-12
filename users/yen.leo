@@ -21,13 +21,13 @@
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="leo.20161013190948.1"><vh>@@edit index.html</vh></v>
-<v t="leo.20161014111031.1"><vh>@clean index.html</vh>
+<v t="leo.20161014111031.1" a="E"><vh>@clean index.html</vh>
 <v t="leo.20161014111031.2" a="E"><vh>html</vh>
 <v t="leo.20161014111031.3"><vh>head</vh></v>
 <v t="leo.20161014111031.4" a="E"><vh>body</vh>
 <v t="leo.20161014111031.5" a="E"><vh>reveal div</vh>
 <v t="leo.20161014111031.6" a="E"><vh>slides div</vh>
-<v t="leo.20161014111031.7"><vh>封面投影片</vh>
+<v t="leo.20161014111031.7" a="E"><vh>封面投影片</vh>
 <v t="leo.20161014111031.8"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20161014111031.9"><vh>20160916W1</vh>
@@ -176,6 +176,14 @@
 <v t="leo.20170101215301.5"><vh>繪製 Mechanism Tutorial</vh></v>
 </v>
 </v>
+<v t="leo.20170112140710.1"><vh>20170106W17</vh>
+<v t="leo.20170112140710.2"><vh>上課日期</vh>
+<v t="leo.20170112140710.3"><vh>20170106</vh></v>
+</v>
+<v t="leo.20170112140710.4"><vh>上課內容1</vh>
+<v t="leo.20170112140710.5"><vh>相對運動練習</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -215,6 +223,7 @@
 <v t="leo.20161217221415.1"><vh>@edit 20161216.md</vh></v>
 <v t="leo.20161230112544.1"><vh>@edit 20161223.md</vh></v>
 <v t="leo.20161230112546.1"><vh>@edit 20161230.md</vh></v>
+<v t="leo.20170112135759.1"><vh>@edit 20170106.md</vh></v>
 </v>
 </v>
 </v>
@@ -564,15 +573,11 @@ redirecting ....
 ### 虎科大機械設計工程系
 ### 設計二乙
 ### 40423226
-### 胡原愷
+### 胡 原 愷
 
 &lt;small&gt;
-Created by [40423226](https://40423226.github.io/2016fallcadp_hw/blog/)
+[個人網誌](https://40423226.github.io/2016fallcadp_hw/blog/)
 &lt;/small&gt;
-
-[乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
-
-[40423226 Vimeo 影片](https://vimeo.com/user46807821/videos)
 </t>
 <t tx="leo.20161014111031.9">&lt;section&gt;
 @others
@@ -1035,5 +1040,32 @@ make.start()</t>
 <t tx="leo.20170101215301.5">## 繪製 Mechanism Tutorial
 
 &lt;img src="data/image/Mechanism Tutorial.png" width="800" /&gt;</t>
+<t tx="leo.20170112140710.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170112140710.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170112140710.3">## 2017-01-06 第十七週
+
+</t>
+<t tx="leo.20170112140710.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170112140710.5">## 利用約束條件,使機構作相對運動
+
+&lt;iframe src="https://player.vimeo.com/video/199112247" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
