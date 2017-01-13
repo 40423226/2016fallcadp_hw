@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423226個人網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2017-01-06T12:00:00+08:00</updated><entry><title>20170106W17</title><link href="./20170106w17.html" rel="alternate"></link><updated>2017-01-06T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2017-01-06:./20170106w17.html</id><summary type="html">&lt;h2&gt;利用約束條件,使機構作相對運動&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423226個人網誌 (NFU-MDE104B)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2017-01-13T12:00:00+08:00</updated><entry><title>2016 Fall 電腦輔助設計與實習期末自評總結</title><link href="./2016-fall-dian-nao-fu-zhu-she-ji-yu-shi-xi-qi-mo-zi-ping-zong-jie.html" rel="alternate"></link><published>2017-01-13T12:00:00+08:00</published><updated>2017-01-13T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2017-01-13:./2016-fall-dian-nao-fu-zhu-she-ji-yu-shi-xi-qi-mo-zi-ping-zong-jie.html</id><summary type="html">&lt;p&gt;一開始使用子模組的設定，但是大多數的子模組的內容是正確的，只有少數的內容是有問題，也會害全體的倉儲無法正常運作，這樣只好忍痛把有問題的人踢除子模組，要不然倉儲沒辦法正常運作。&lt;/p&gt;
 
-&lt;iframe src="https://player.vimeo.com/video/199112247" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>20161230W16</title><link href="./20161230w16.html" rel="alternate"></link><updated>2016-12-30T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-12-30:./20161230w16.html</id><summary type="html">&lt;h2&gt;OnShape繪製Mechanism Tutorial&lt;/h2&gt;
+&lt;p&gt;在設定子模組的時候，常常會遇到問題，以前等別人發生相同問題，然後直接跟別人拿解決方法，現在只好靠自己查字典，學著上網收尋，看有沒有人也遇過相同的問題，試著找出問題出在哪裡，想辦法一一排除系統回報的錯誤。&lt;/p&gt;
+
+&lt;p&gt;這學期利用 ShareX 截圖還有錄製影片， 學習紀錄自己的操作方式，以便之後自己回顧時的方便性，也可以直接利用影片，教同學如何操作，而不用大費周章到他旁邊，進行一對一不符合成及效益的教學。&lt;/p&gt;
+
+&lt;p&gt;這次主要學習到 SolveSpace 及 Onshape ，雖然 SolveSpace 是一個開放的程式，但他的計算能力比較差，沒辦法跟 Onshape 做比較，但兩個程式都各有優缺點，就要看自己如何運用。&lt;/p&gt;
+
+&lt;p&gt;一個學期也過去了，學到了不少的東西，也發現自己不足的地方，之後會更加度促自己。&lt;/p&gt;</summary><category term="期末自評總結"></category></entry><entry><title>20170106W17</title><link href="./20170106w17.html" rel="alternate"></link><published>2017-01-06T12:00:00+08:00</published><updated>2017-01-06T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2017-01-06:./20170106w17.html</id><summary type="html">&lt;h2&gt;利用約束條件,使機構作相對運動&lt;/h2&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/199112247" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>20161230W16</title><link href="./20161230w16.html" rel="alternate"></link><published>2016-12-30T12:00:00+08:00</published><updated>2016-12-30T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-12-30:./20161230w16.html</id><summary type="html">&lt;h2&gt;OnShape繪製Mechanism Tutorial&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href="https://github.com/40423226/2016fallcadp_hw/raw/gh-pages/data/ProEMechanism.pdf"&gt;PDF下載: ProEMechanism&lt;/a&gt;&lt;/p&gt;
 
@@ -42,9 +50,9 @@
 &lt;iframe src="../data/solvespace/Mechanism Tutorial/piston.html" width="800" height="480"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;/p&gt;mechanism tutorial&lt;/p&gt;
-&lt;iframe src="../data/solvespace/Mechanism Tutorial/mechanism tutorial.html" width="800" height="480"&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="上課內容"></category><category term="OnShape"></category><category term="SolveSpace"></category></entry><entry><title>20161223W15</title><link href="./20161223w15.html" rel="alternate"></link><updated>2016-12-23T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-12-23:./20161223w15.html</id><summary type="html">&lt;h2&gt;整理目前為止上課的內容&lt;/h2&gt;</summary><category term="上課內容"></category></entry><entry><title>20161216W14</title><link href="./20161216w14.html" rel="alternate"></link><updated>2016-12-16T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-12-16:./20161216w14.html</id><summary type="html">&lt;p&gt;&lt;a href="https://github.com/40423226/2016fallcadp_hw/raw/gh-pages/data/solvespace/delta_printer_v2.7z"&gt;SolveSpace下載: delta_printer_v2&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src="../data/solvespace/Mechanism Tutorial/mechanism tutorial.html" width="800" height="480"&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="上課內容"></category><category term="OnShape"></category><category term="SolveSpace"></category></entry><entry><title>20161223W15</title><link href="./20161223w15.html" rel="alternate"></link><published>2016-12-23T12:00:00+08:00</published><updated>2016-12-23T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-12-23:./20161223w15.html</id><summary type="html">&lt;h2&gt;整理目前為止上課的內容&lt;/h2&gt;</summary><category term="上課內容"></category></entry><entry><title>20161216W14</title><link href="./20161216w14.html" rel="alternate"></link><published>2016-12-16T12:00:00+08:00</published><updated>2016-12-16T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-12-16:./20161216w14.html</id><summary type="html">&lt;p&gt;&lt;a href="https://github.com/40423226/2016fallcadp_hw/raw/gh-pages/data/solvespace/delta_printer_v2.7z"&gt;SolveSpace下載: delta_printer_v2&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="../data/solvespace/delta_printer_v2/delta_printer.png" width="800" /&gt;&lt;/p&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>20161209W13</title><link href="./20161209w13.html" rel="alternate"></link><updated>2016-12-09T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-12-09:./20161209w13.html</id><summary type="html">&lt;h2&gt;用SolveSpace把檔案存成html檔,並且更改成http設定,利用嵌入網頁的指令,把html檔案放進網誌裡面&lt;/h2&gt;
+&lt;p&gt;&lt;img src="../data/solvespace/delta_printer_v2/delta_printer.png" width="800" /&gt;&lt;/p&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>20161209W13</title><link href="./20161209w13.html" rel="alternate"></link><published>2016-12-09T12:00:00+08:00</published><updated>2016-12-09T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-12-09:./20161209w13.html</id><summary type="html">&lt;h2&gt;用SolveSpace把檔案存成html檔,並且更改成http設定,利用嵌入網頁的指令,把html檔案放進網誌裡面&lt;/h2&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/194948275" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -66,7 +74,7 @@ If you have any questions you can contact us by replying to this email.&lt;/pre&
 
 &lt;pre&gt;git rm -r -f plugin/liquid_tags/test_data&lt;/pre&gt;
 
-&lt;p&gt;&lt;img src="../data/image/bug.png" width="800" /&gt;&lt;/p&gt;</summary><category term="上課內容"></category><category term="解決問題"></category><category term="SolveSpace"></category></entry><entry><title>20161202W12</title><link href="./20161202w12.html" rel="alternate"></link><updated>2016-12-02T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-12-02:./20161202w12.html</id><summary type="html">&lt;h2&gt;Cube&lt;/h2&gt;
+&lt;p&gt;&lt;img src="../data/image/bug.png" width="800" /&gt;&lt;/p&gt;</summary><category term="上課內容"></category><category term="解決問題"></category><category term="SolveSpace"></category></entry><entry><title>20161202W12</title><link href="./20161202w12.html" rel="alternate"></link><published>2016-12-02T12:00:00+08:00</published><updated>2016-12-02T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-12-02:./20161202w12.html</id><summary type="html">&lt;h2&gt;Cube&lt;/h2&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/194943832" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -82,9 +90,9 @@ If you have any questions you can contact us by replying to this email.&lt;/pre&
 
 &lt;iframe src="https://player.vimeo.com/video/194943848" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;iframe src="../data/solvespace/combination.html" width="800" height="480"&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>20161125W11</title><link href="./20161125w11.html" rel="alternate"></link><updated>2016-11-25T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-11-25:./20161125w11.html</id><summary type="html">&lt;h2&gt;虎科大36週年校慶&lt;/h2&gt;
+&lt;iframe src="../data/solvespace/combination.html" width="800" height="480"&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>20161125W11</title><link href="./20161125w11.html" rel="alternate"></link><published>2016-11-25T12:00:00+08:00</published><updated>2016-11-25T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-11-25:./20161125w11.html</id><summary type="html">&lt;h2&gt;虎科大36週年校慶&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src="../data/image/nfu_36th.png" width="800" /&gt;&lt;/p&gt;</summary><category term="虎科大36週年校慶"></category></entry><entry><title>20161118W10</title><link href="./20161118w10.html" rel="alternate"></link><updated>2016-11-18T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-11-18:./20161118w10.html</id><summary type="html">&lt;p&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證&lt;/p&gt;
+&lt;p&gt;&lt;img src="../data/image/nfu_36th.png" width="800" /&gt;&lt;/p&gt;</summary><category term="虎科大36週年校慶"></category></entry><entry><title>20161118W10</title><link href="./20161118w10.html" rel="alternate"></link><published>2016-11-18T12:00:00+08:00</published><updated>2016-11-18T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-11-18:./20161118w10.html</id><summary type="html">&lt;p&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證&lt;/p&gt;
 
 
 &lt;h2&gt;Solvespace 平面四連桿機構模擬&lt;/h2&gt;
@@ -501,7 +509,7 @@ plt.show()
 &lt;p&gt;以下再利用 Solvespace 程式 API 方法進行四連桿模擬驗證:&lt;/p&gt;
 &lt;p&gt;以下以 Delta 3D 印表機印出連桿零件, 組立後以步進馬達驅動進行驗證:&lt;/p&gt;
 &lt;p&gt;以下利用伸縮連桿設計, 以 Delta 3D 印表機印出連桿零件, 組立後以步進馬達驅動進行驗證:&lt;/p&gt;
-&lt;p&gt;請以上述相同流程, 模擬並實作驗證 &lt;a href="http://solvespace.com/linkage.pl"&gt;多連桿機構&lt;/a&gt;的作動.&lt;/p&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>20161111W9</title><link href="./20161111w9.html" rel="alternate"></link><updated>2016-11-11T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-11-11:./20161111w9.html</id><summary type="html">&lt;h2&gt;&lt;a href="http://mde.tw/2016fallcadp/blog/2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html"&gt;檢查自己的連結是否正確&lt;/a&gt;&lt;/h2&gt;</summary><category term="上課內容"></category></entry><entry><title>20161104W8</title><link href="./20161104w8.html" rel="alternate"></link><updated>2016-11-04T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-11-04:./20161104w8.html</id><summary type="html">&lt;h2&gt;&lt;a href="http://pygroup-ag100.rhcloud.com"&gt;期中課程評量系統&lt;/a&gt;&lt;/h2&gt;</summary><category term="上課內容"></category></entry><entry><title>20161028W7</title><link href="./20161028w7.html" rel="alternate"></link><updated>2016-10-28T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-28:./20161028w7.html</id><summary type="html">&lt;h2&gt;使用Trace Point計算路徑&lt;h2&gt;
+&lt;p&gt;請以上述相同流程, 模擬並實作驗證 &lt;a href="http://solvespace.com/linkage.pl"&gt;多連桿機構&lt;/a&gt;的作動.&lt;/p&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>20161111W9</title><link href="./20161111w9.html" rel="alternate"></link><published>2016-11-11T12:00:00+08:00</published><updated>2016-11-11T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-11-11:./20161111w9.html</id><summary type="html">&lt;h2&gt;&lt;a href="http://mde.tw/2016fallcadp/blog/2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html"&gt;檢查自己的連結是否正確&lt;/a&gt;&lt;/h2&gt;</summary><category term="上課內容"></category></entry><entry><title>20161104W8</title><link href="./20161104w8.html" rel="alternate"></link><published>2016-11-04T12:00:00+08:00</published><updated>2016-11-04T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-11-04:./20161104w8.html</id><summary type="html">&lt;h2&gt;&lt;a href="http://pygroup-ag100.rhcloud.com"&gt;期中課程評量系統&lt;/a&gt;&lt;/h2&gt;</summary><category term="上課內容"></category></entry><entry><title>20161028W7</title><link href="./20161028w7.html" rel="alternate"></link><published>2016-10-28T12:00:00+08:00</published><updated>2016-10-28T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-28:./20161028w7.html</id><summary type="html">&lt;h2&gt;使用Trace Point計算路徑&lt;h2&gt;
 &lt;iframe src="https://player.vimeo.com/video/190090265" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;路徑圖&lt;/p&gt;
@@ -541,7 +549,7 @@ plt.show()
     path = 40423216
     url = https://github.com/40423216/2016fallcadp_hw.git
     branch = gh-pages
-&lt;/pre&gt;</summary><category term="上課內容"></category><category term="解決問題"></category><category term="子模組"></category></entry><entry><title>20161021W6</title><link href="./20161021w6.html" rel="alternate"></link><updated>2016-10-21T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-21:./20161021w6.html</id><summary type="html">&lt;h2&gt;解決子模組在對應上的問題&lt;/h2&gt;
+&lt;/pre&gt;</summary><category term="上課內容"></category><category term="解決問題"></category><category term="子模組"></category></entry><entry><title>20161021W6</title><link href="./20161021w6.html" rel="alternate"></link><published>2016-10-21T12:00:00+08:00</published><updated>2016-10-21T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-21:./20161021w6.html</id><summary type="html">&lt;h2&gt;解決子模組在對應上的問題&lt;/h2&gt;
 
 &lt;p&gt;因為之前的2016fallcadp_hw倉儲少複製了一些東西,刪除舊的倉儲後,重新做一個和之前倉儲同名的2016fallcadp_hw倉儲,但是在小組倉儲所連結的子模組,抓不到新倉儲連結,所以我們需要重新加入一次組員倉儲的資料&lt;/p&gt;
 
@@ -628,14 +636,14 @@ git rm asubmodule
 git rm --cached asubmodule
 &lt;/pre&gt;
 
-&lt;p&gt;但是在2016fallcadp_bg6\.git\modules裡的隱藏資料夾,還是需要自己動手刪除&lt;/p&gt;</summary><category term="上課內容"></category><category term="解決問題"></category><category term="子模組"></category></entry><entry><title>20161014W5</title><link href="./20161014w5.html" rel="alternate"></link><updated>2016-10-14T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-14:./20161014w5.html</id><summary type="html">&lt;h2&gt;初步認識SolveSpace&lt;h2&gt;
-&lt;iframe src="https://player.vimeo.com/video/190087085" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>20161007W4</title><link href="./20161007w4.html" rel="alternate"></link><updated>2016-10-07T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-07:./20161007w4.html</id><summary type="html">&lt;h2&gt;設定使用者資料,讓可攜程式更方便&lt;/h2&gt;
+&lt;p&gt;但是在2016fallcadp_bg6\.git\modules裡的隱藏資料夾,還是需要自己動手刪除&lt;/p&gt;</summary><category term="上課內容"></category><category term="解決問題"></category><category term="子模組"></category></entry><entry><title>20161014W5</title><link href="./20161014w5.html" rel="alternate"></link><published>2016-10-14T12:00:00+08:00</published><updated>2016-10-14T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-14:./20161014w5.html</id><summary type="html">&lt;h2&gt;初步認識SolveSpace&lt;h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/190087085" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>20161007W4</title><link href="./20161007w4.html" rel="alternate"></link><published>2016-10-07T12:00:00+08:00</published><updated>2016-10-07T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-07:./20161007w4.html</id><summary type="html">&lt;h2&gt;設定使用者資料,讓可攜程式更方便&lt;/h2&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/190072906" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h2&gt;用2016fallcadp_bg6的名稱,建立小組倉儲&lt;/h2&gt;
 
-&lt;iframe src="https://player.vimeo.com/video/190075715" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category></entry><entry><title>20160930W3</title><link href="./20160930w3.html" rel="alternate"></link><updated>2016-09-30T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-09-30:./20160930w3.html</id><summary type="html">&lt;h2&gt;複製網誌和簡報的設定檔到2016fallcadp_hw的倉儲&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/190075715" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category></entry><entry><title>20160930W3</title><link href="./20160930w3.html" rel="alternate"></link><published>2016-09-30T12:00:00+08:00</published><updated>2016-09-30T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-09-30:./20160930w3.html</id><summary type="html">&lt;h2&gt;複製網誌和簡報的設定檔到2016fallcadp_hw的倉儲&lt;/h2&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/190065696" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -687,13 +695,13 @@ error: cannot overwrite multiple values with a single value
 [user]
     email = 40423226@gm.nfu.edu.tw
     name = 40423226
-&lt;/pre&gt;&lt;/p&gt;</summary><category term="上課內容"></category><category term="解決問題"></category><category term="環境設定"></category></entry><entry><title>20160923W2</title><link href="./20160923w2.html" rel="alternate"></link><updated>2016-09-23T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-09-23:./20160923w2.html</id><summary type="html">&lt;h2&gt;建立40423226.github.io名稱的倉儲&lt;/h2&gt;
+&lt;/pre&gt;&lt;/p&gt;</summary><category term="上課內容"></category><category term="解決問題"></category><category term="環境設定"></category></entry><entry><title>20160923W2</title><link href="./20160923w2.html" rel="alternate"></link><published>2016-09-23T12:00:00+08:00</published><updated>2016-09-23T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-09-23:./20160923w2.html</id><summary type="html">&lt;h2&gt;建立40423226.github.io名稱的倉儲&lt;/h2&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/190063679" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h2&gt;把分支的預設值改為gh-pages&lt;/h2&gt;
 
-&lt;iframe src="https://player.vimeo.com/video/190064489" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category></entry><entry><title>20160916W1</title><link href="./20160916w1.html" rel="alternate"></link><updated>2016-09-16T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-09-16:./20160916w1.html</id><summary type="html">&lt;h2&gt;利用中秋連假複習之前學過的指令&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/190064489" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category></entry><entry><title>20160916W1</title><link href="./20160916w1.html" rel="alternate"></link><published>2016-09-16T12:00:00+08:00</published><updated>2016-09-16T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-09-16:./20160916w1.html</id><summary type="html">&lt;h2&gt;利用中秋連假複習之前學過的指令&lt;/h2&gt;
 
 &lt;p&gt;切換到2016fallcadp_hw的分支&lt;/p&gt;
 
@@ -746,7 +754,7 @@ error: cannot overwrite multiple values with a single value
 
 &lt;p&gt;直接刪除所有該檔案名稱的檔案&lt;/p&gt;
 
-&lt;pre&gt;git rm &lt;u&gt;檔案名稱&lt;/u&gt; -f&lt;/pre&gt;</summary><category term="上課內容"></category></entry><entry><title>Other</title><link href="./other.html" rel="alternate"></link><updated>1111-11-11T11:11:00+08:06</updated><author><name>40423226</name></author><id>tag:,1111-11-11:./other.html</id><summary type="html">&lt;h2&gt;使用環境設定&lt;/h2&gt;
+&lt;pre&gt;git rm &lt;u&gt;檔案名稱&lt;/u&gt; -f&lt;/pre&gt;</summary><category term="上課內容"></category></entry><entry><title>Other</title><link href="./other.html" rel="alternate"></link><published>1111-11-11T11:11:00+08:06</published><updated>1111-11-11T11:11:00+08:06</updated><author><name>40423226</name></author><id>tag:,1111-11-11:./other.html</id><summary type="html">&lt;h2&gt;使用環境設定&lt;/h2&gt;
 
 &lt;pre&gt;
 git config --global http.proxy http://proxy.mde.tw:3128
@@ -810,7 +818,7 @@ git config --global user.name "40423226"&lt;/pre&gt;
 
 &lt;p&gt;&lt;u&gt;底線&lt;/u&gt;&lt;/p&gt;
 
-&lt;pre&gt;&amp;lt;u&gt;底線&amp;lt;/u&gt;&lt;/pre&gt;</summary><category term="環境設定"></category><category term="子模組"></category><category term="HTML文字語法"></category></entry><entry><title>Onshape</title><link href="./onshape.html" rel="alternate"></link><updated>1111-02-22T22:22:00+08:06</updated><author><name>40423226</name></author><id>tag:,1111-02-22:./onshape.html</id><summary type="html">&lt;h2&gt;&lt;a href="https://www.onshape.com/"&gt;Onshape&lt;/a&gt;&lt;/h2&gt;</summary><category term="Onshape"></category></entry><entry><title>SolveSpace</title><link href="./solvespace.html" rel="alternate"></link><updated>1111-02-22T22:22:00+08:06</updated><author><name>40423226</name></author><id>tag:,1111-02-22:./solvespace.html</id><summary type="html">&lt;h2&gt;&lt;a href="http://solvespace.com/"&gt;SolveSpace&lt;/a&gt;&lt;/h2&gt;
+&lt;pre&gt;&amp;lt;u&gt;底線&amp;lt;/u&gt;&lt;/pre&gt;</summary><category term="環境設定"></category><category term="子模組"></category><category term="HTML文字語法"></category></entry><entry><title>Onshape</title><link href="./onshape.html" rel="alternate"></link><published>1111-02-22T22:22:00+08:06</published><updated>1111-02-22T22:22:00+08:06</updated><author><name>40423226</name></author><id>tag:,1111-02-22:./onshape.html</id><summary type="html">&lt;h2&gt;&lt;a href="https://www.onshape.com/"&gt;Onshape&lt;/a&gt;&lt;/h2&gt;</summary><category term="Onshape"></category></entry><entry><title>SolveSpace</title><link href="./solvespace.html" rel="alternate"></link><published>1111-02-22T22:22:00+08:06</published><updated>1111-02-22T22:22:00+08:06</updated><author><name>40423226</name></author><id>tag:,1111-02-22:./solvespace.html</id><summary type="html">&lt;h2&gt;&lt;a href="http://solvespace.com/"&gt;SolveSpace&lt;/a&gt;&lt;/h2&gt;
 
 &lt;h2&gt;SolveSpace 2D&lt;/h2&gt;
 

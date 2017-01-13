@@ -21,7 +21,7 @@
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="leo.20161013190948.1"><vh>@@edit index.html</vh></v>
-<v t="leo.20161014111031.1" a="E"><vh>@clean index.html</vh>
+<v t="leo.20161014111031.1"><vh>@clean index.html</vh>
 <v t="leo.20161014111031.2" a="E"><vh>html</vh>
 <v t="leo.20161014111031.3"><vh>head</vh></v>
 <v t="leo.20161014111031.4" a="E"><vh>body</vh>
@@ -184,6 +184,14 @@
 <v t="leo.20170112140710.5"><vh>相對運動練習</vh></v>
 </v>
 </v>
+<v t="leo.20170113103445.1"><vh>20170113W18</vh>
+<v t="leo.20170113103445.2"><vh>上課日期</vh>
+<v t="leo.20170113103445.3"><vh>20170113</vh></v>
+</v>
+<v t="leo.20170113103445.4"><vh>上課內容1</vh>
+<v t="leo.20170113103445.5"><vh>期末自評總結</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -224,6 +232,7 @@
 <v t="leo.20161230112544.1"><vh>@edit 20161223.md</vh></v>
 <v t="leo.20161230112546.1"><vh>@edit 20161230.md</vh></v>
 <v t="leo.20170112135759.1"><vh>@edit 20170106.md</vh></v>
+<v t="leo.20170113093236.1"><vh>@edit 20170113.md</vh></v>
 </v>
 </v>
 </v>
@@ -1067,5 +1076,30 @@ make.start()</t>
 <t tx="leo.20170112140710.5">## 利用約束條件,使機構作相對運動
 
 &lt;iframe src="https://player.vimeo.com/video/199112247" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170113103445.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170113103445.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113103445.3">## 2017-01-13 第十八週
+
+</t>
+<t tx="leo.20170113103445.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113103445.5">## 2016 Fall 電腦輔助設計與實習期末自評總結</t>
 </tnodes>
 </leo_file>
