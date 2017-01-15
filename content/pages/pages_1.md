@@ -1,24 +1,8 @@
-Title: About Bg6
+Title: About
 
-##2016Fallcadpb_bg6 成員簡報
-<p><a href="https://40423206.github.io/2016fallcadp_hw">組長 40423206</a></p>
-<p><a href="https://40423214.github.io/2016fallcadp_hw">組員 40423214</a></p>
-<p><a href="https://40423216.github.io/2016fallcadp_hw">組員 40423216</a></p>
-<p><a href="https://40423224.github.io/2016fallcadp_hw">組員 40423224</a></p>
-<p><a href="https://40423226.github.io/2016fallcadp_hw">組員 40423226</a></p>
-<p><a href="https://40423229.github.io/2016fallcadp_hw">組員 40423229</a></p>
+###國立虎尾科技大學-機械設計工程系
+###104級乙班-40423226-胡原愷
 
-##2016Fallcadpb_bg6 成員網誌
-
-<p><a href="https://40423206.github.io/2016fallcadp_hw/blog/">組長 40423206</a></p>
-<p><a href="https://40423214.github.io/2016fallcadp_hw/blog/">組員 40423214</a></p>
-<p><a href="https://40423216.github.io/2016fallcadp_hw/blog/">組員 40423216</a></p>
-<p><a href="https://40423224.github.io/2016fallcadp_hw/blog/">組員 40423224</a></p>
-<p><a href="https://40423226.github.io/2016fallcadp_hw/blog/">組員 40423226</a></p>
-<p><a href="https://40423229.github.io/2016fallcadp_hw/blog/">組員 40423229</a></p>
-
-
-
-
-
-
+<p>GitHub: <a href="https://github.com/40423226">40423206</a></p>
+<p>Vimeo: <a href="https://vimeo.com/user46807821/videos/all">40423206</a></p>
+<p>YouTube: <a href="https://www.youtube.com/channel/UCOCiRpI5ND4RKKHHtDcDGsg">40423206</a></p>
